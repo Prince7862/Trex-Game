@@ -90,7 +90,7 @@ function draw() {
   }
     
     if(keyDown("Space") && trex.y > 340.8){
-    trex.velocityY = -12
+    trex.velocityY = -20
     jumpS.play();
   }
     
