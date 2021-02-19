@@ -94,7 +94,7 @@ function draw() {
     jumpS.play();
   }
     
-     trex.velocityY = trex.velocityY + 0.8
+     trex.velocityY = trex.velocityY + 1
     
     Clouds();
   
